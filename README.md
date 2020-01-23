@@ -1,2 +1,1 @@
-# hello
-LTS YAY TEAM
+# LTS Team
